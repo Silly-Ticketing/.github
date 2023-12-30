@@ -1,0 +1,2 @@
+# .github
+Silly Ticketing README
